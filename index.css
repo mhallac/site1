@@ -1,0 +1,49 @@
+.wrapper {
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    background-color: white;
+    padding: 5%;
+}
+
+body {
+    background-color: #d9d9d9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro {
+    font-size: 46px;
+    
+}
+
+.me {
+    border-radius: 50%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    float: right;
+    border: solid;
+}
+
+.navbar a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    font-weight: bold;
+    font-size: 25px;
+}
